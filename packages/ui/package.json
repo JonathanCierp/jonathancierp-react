@@ -1,5 +1,5 @@
 {
-  "name": "ui",
+  "name": "@jonathancierp/ui",
   "version": "0.0.4-alpha.0",
   "description": "React UI components for better ui Xperiences.",
   "author": "JonathanCierp",
@@ -66,5 +66,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "ac936dd7e8c686c9deda64ff7beaf0c556876900"
+  "gitHead": "0398fa79a5054ff2435563bff4d5bee1dc7252d5"
 }
