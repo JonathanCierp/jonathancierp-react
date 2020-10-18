@@ -63,5 +63,8 @@
   "files": [
     "dist"
   ],
-  "gitHead": "c3e3f69ac7b57008beffdb45da0acfda5f0a9615"
+	"publishConfig": {
+		"access": "public"
+	},
+  "gitHead": "ac936dd7e8c686c9deda64ff7beaf0c556876900"
 }
